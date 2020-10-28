@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\bin\Debug\ClientProxy-P4-001_Form.exe.config
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\bin\Debug\ClientProxy-P4-001_Form.exe
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\bin\Debug\ClientProxy-P4-001_Form.pdb
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy-P4-001_Form.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy_P4_001_Form.Form1.resources
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy_P4_001_Form.Properties.Resources.resources
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy-P4-001_Form.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy-P4-001_Form.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy-P4-001_Form.exe
+C:\Users\yusuf\source\repos\ClientProxy-P4-001_Form\ClientProxy-P4-001_Form\obj\Debug\ClientProxy-P4-001_Form.pdb
